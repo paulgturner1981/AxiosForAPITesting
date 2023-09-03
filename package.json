@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@r35007/mock-server": "^18.0.1",
+    "axios": "^1.5.0",
+    "mocha": "^10.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.7.0"
+  }
+}

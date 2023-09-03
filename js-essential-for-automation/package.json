@@ -1,0 +1,21 @@
+{
+  "name": "js-essential-for-automation",
+  "version": "1.0.0",
+  "description": "learning js and node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node wk4/promises/promises.js",
+    "demo": "node wk4/functions/callbackFunctions/namedFunctions.js",
+    "cwd": "export TARGET=TEST && node wk6/node/processCwd.js",
+    "errorHandler": "node wk6/node/err-handling/commonErr.js",
+    "throw": "node wk6/node/err-handling/throw.js",
+    "tryCatch": "node wk6/node/err-handling/tryCatch.js"
+  },
+  "keywords": [
+    "js",
+    "node.js"
+  ],
+  "author": "Paul Turner",
+  "license": "ISC"
+}
+ 
